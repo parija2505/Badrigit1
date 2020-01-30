@@ -1,0 +1,6 @@
+pwc access   - https://www.pwc.in/industries/entertainment-and-media.html\
+
+Git Log in -  https://github.com/
+
+git config --global user.name "parija2505"
+git config --global user.email "badrinarayan.parija@net-effect.com"
